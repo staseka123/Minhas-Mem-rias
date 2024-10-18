@@ -22,14 +22,6 @@ nav ul li {
 main {
     padding: 20px;
 }
-
-.img-medium {
-    width: 100px; 
-    height: auto; 
-    object-fit: cover; 
-    display: block;
-    margin: 10px auto;
-}
  Img {
 width: 200px;
 heigth: auto;
